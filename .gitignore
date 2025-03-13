@@ -1,0 +1,9 @@
+myenv
+job_board_api/venv
+job_board_api/.env
+job_board_api/media
+job_board_api/db.sqlite3
+job_board_api/staticfiles/admin
+job_board_api/staticfiles/drf-yasg
+job_board_api/staticfiles/rest_framework
+jobs/migrations
